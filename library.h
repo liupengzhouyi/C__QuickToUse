@@ -1,0 +1,6 @@
+#ifndef C__QUICKTOUSE_LIBRARY_H
+#define C__QUICKTOUSE_LIBRARY_H
+
+void hello();
+
+#endif //C__QUICKTOUSE_LIBRARY_H
